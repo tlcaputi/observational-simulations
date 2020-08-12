@@ -1,0 +1,2 @@
+# README
+This is the code for the paper "What Cannabis Can Learn from Covid: Hydroxychloroquine Research Suggests the Next Step for Medical Cannabis Research", which is currently submitted/under review. `sims.R` produces the figure in the paper. Credit to [kaz_yos](https://web.archive.org/save/http://rstudio-pubs-static.s3.amazonaws.com/63106_de4f086192e346a1aaf9a179dd7084ff.html) for motivating the simulation technique.
